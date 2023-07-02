@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+• my name is Sam Ahrens  
+• Computer Science student at Purdue University  
+• i love working and contributing to all types of projects!  
+## Contact Info
+• www.linkedin.com/in/samuel-ahrens123/  
+• ahrens5@purdue.edu  
