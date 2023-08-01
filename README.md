@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 • my name is Sam Ahrens   
 • Computer Science student at Purdue University  
-• i love working on and contributing to all types of projects!  
+• i love working on fun projects that allow me to learn new things!
 ## Contact Info:
 • www.linkedin.com/in/samuel-ahrens123  
 • ahrens5@purdue.edu
